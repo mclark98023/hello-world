@@ -1,2 +1,2 @@
 # hello-world
-Not sure what I am doing but a desire to learn
+I am not sure what I am doing but I have a desire to learn.
